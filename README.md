@@ -11,8 +11,8 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/diko-gets-gif-25660683"  />
 
+<div class="tenor-gif-embed" data-postid="25660683" data-share-method="host" data-aspect-ratio="1.15108" data-width="100%"><a href="https://tenor.com/view/diko-gets-gif-25660683">Diko Gets Sticker</a>from <a href="https://tenor.com/search/diko+gets-stickers">Diko Gets Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
