@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harshit pahade , I m full-stack Nextjs Developer</h2>
+<h2 align="left">Hi 👋! My name is Harshit pahade , Upskilling toward AI/ML </h2>
 
 ###
 
